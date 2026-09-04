@@ -23,11 +23,6 @@ We reject the practice of treating living cultures and sacred religions as a sup
 
 *   **Yu-Gi-Oh! Lore / Card Archetypes (Dracoslayer & Hecahands):** The practice of careless asset extraction cuts across all sacred traditions. For example, Konami frequently mirrors structural messianic arcs through universal high-fantasy tropes and archetypes. However, when global religious motifs are heavily secularized into commercial trading card storylines, such as mapping elements reminiscent of divinity and martyrdom onto card characters like Luster Pendulum, the Dracoslayer, or blending fallen angel motifs with generic demonic aesthetics purely for dramatic card flavor, sacred concepts are inadvertently reduced to arcade mechanics. To a practicing Christian, seeing structural themes of their faith commercialized into tropes designed to sell trading card booster packs is a profound extraction error. It demonstrates that when a studio operates inside an unvetted domestic bubble, global religions are treated as a secular "toy box," completely disregarding the deep spiritual realities held dear by millions of global believers.
 
-
-  
-* The **Adhan (الأذان)** is not an "ambient ethnic vocal track" to layer into a background beat; it is a sacred call to prayer.
-
-
 Stripping these elements of their context for superficial exoticism is a failure of creative craftsmanship. We do not ask for censorship, nor do we ask creators to stop exploring the world. We simply ask that when you look at us, you see **humans** with families, values, and dignity not the lazy, dehumanizing caricatures pushed by decades of outdated Hollywood tropes.
 
 ---
@@ -37,7 +32,11 @@ Stripping these elements of their context for superficial exoticism is a failure
 When studios fail to implement basic cultural due diligence, it results in severe brand damage and massive financial loss. The following historical turning points prove that cultural competence is a baseline business requirement:
 
 *   **JoJo's Bizarre Adventure (2008):** Animators randomly copied Arabic text from a real-world book to use as a generic background asset for a villain. The text was from the **Holy Qur'an**, depicted while a character plotted murder. The resulting international outcry forced the publisher to officially apologize, halt shipments of the anime and manga globally, and completely edit the scene.
-*   **Demon Slayer: Kimetsu no Yaiba (2019):** A composer pulled an unvetted "ambient vocal chant" from a commercial stock audio library and mixed it into a background music track. The audio contained the sacred **Islamic call to prayer (Adhan)**. The mixing of sacred prayer with instrumental music caused immediate backlash, forcing an official corporate apology and a massive, costly physical recall of the franchise's Volume 4 Blu-ray discs to scrub the audio.
+
+
+  * The **Adhan (الأذان)** is not an "ambient ethnic vocal track" to layer into a background beat; it is a sacred call to prayer:
+    
+- **Demon Slayer: Kimetsu no Yaiba (2019):** A composer pulled an unvetted "ambient vocal chant" from a commercial stock audio library and mixed it into a background music track. The audio contained the sacred **Islamic call to prayer (Adhan)**. The mixing of sacred prayer with instrumental music caused immediate international backlash. However, the case serves as a key benchmark for corporate resolution: the publisher (Aniplex) and the production committee immediately acknowledged the structural oversight, issued an official public apology, halted distribution, and executed a massive physical recall of the franchise's Volume 4 Blu-ray discs to scrub the audio. The incident proves that while unvetted stock sourcing creates severe liabilities, swift corporate accountability and structural asset removal remain the mandatory minimum for global risk management.
 
 ---
 
