@@ -13,7 +13,8 @@ For decades, entertainment industries operated inside isolated domestic bubbles.
 We reject the practice of treating living cultures and sacred religions as a superficial aesthetic playground. 
 * A name like **Abdullah** is not a "cool-sounding word" for a villain; it translates directly to *"Servant of God."*:
 
-* *   **One Piece (Abdullah):** A minor antagonist/bounty hunter is named "Abdullah" and given a design that leans heavily into violent tropes. The name Abdullah means *"Servant of God"* and carries deep religious weight. Within the creator's domestic bubble, the name was pulled as a direct pop-culture homage to a famous 1980s foreign professional wrestler ("Abdullah the Butcher") without checking the original religious sanctity of the name. This highlights how relying on secondhand pop-culture tropes instead of primary research creates careless cultural mismatches.
+*   **One Piece (Abdullah):** A minor antagonist/bounty hunter is named "Abdullah" and given a character design that leans heavily into violent tropes. The name Abdullah means *"Servant of God"* and carries deep religious weight, yet within the creator's domestic bubble, the name was pulled as a direct pop-culture homage to a famous 1980s foreign professional wrestler ("Abdullah the Butcher"). The case demonstrates that a legitimate intertextual reference within one culture can acquire a radically different, jarring meaning when exported to another. The issue, therefore, does not necessarily lie in the creator's original intent, but in the lack of consideration for how a cultural reference may be reinterpreted by international audiences. Relying on secondhand pop-culture tropes instead of primary research inevitably creates careless cultural mismatches when global distribution meets localized production models.
+
 
 * A revered historical name like **Aisha** should not be detached from its context for shock value:
 
